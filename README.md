@@ -178,8 +178,8 @@ source customer.sql;
 **Daksh Makhija**
 Data Analyst
 📧 Email: dakshmakhija978@gmail.com
-🔗 LinkedIn: 
-
+🔗 LinkedIn: [linkedin.com/in/daksh-makhija-a30892202](https://linkedin.com/in/daksh-makhija-a30892202)  
+💻 GitHub: [github.com/DakshMakhija](https://github.com/DakshMakhija)
 ---
 
 ⭐ If you like this project, feel free to star the repo!
